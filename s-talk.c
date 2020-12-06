@@ -1,5 +1,3 @@
-// ? network name resolution??
-
 // TODO: both clients exit when one enters line "![ENTER]"
 // TODO: test mem leak
 // TODO: README
